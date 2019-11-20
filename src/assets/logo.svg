@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="217.312" height="69.81" viewBox="0 0 217.312 69.81">
+  <g id="Grupo_2" data-name="Grupo 2" transform="translate(-850.792 -389.19)">
+    <path id="Caminho_7" data-name="Caminho 7" d="M0,25.157A48.846,48.846,0,0,1,5.105,12.665c.482-.836,1.111-1.836,1.777-2.812A37.776,37.776,0,0,1,18.87,0" transform="translate(1028.977 409.612) rotate(15.009)" fill="none" stroke="#04942f" stroke-width="3"/>
+    <text id="FruitShop" transform="translate(852.792 443)" fill="#04942f" font-size="42" font-family="Knewave-Regular, Knewave"><tspan x="0" y="0">Fruit</tspan><tspan y="0" fill="#fc7600">Shop</tspan></text>
+    <path id="Caminho_9" data-name="Caminho 9" d="M8.411,0A7.867,7.867,0,0,1,16.5,8.087c-.089,4.551-4.006,16.49-8.57,16.58S-.088,12.966,0,8.411A8.65,8.65,0,0,1,8.411,0Z" transform="translate(1038.996 419.396) rotate(-45)" fill="#04942f"/>
+    <path id="Caminho_10" data-name="Caminho 10" d="M8.028,0a8.451,8.451,0,0,1,8.19,8.47c.045,4.629-3.46,16.662-7.947,16.618S.045,12.941,0,8.308A8.059,8.059,0,0,1,8.028,0Z" transform="translate(1047.604 417.622) rotate(-164.991)" fill="#04942f"/>
+  </g>
+</svg>
