@@ -1,0 +1,31 @@
+ul.product-list {
+  width: 100%;
+  list-style: none;
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  margin-bottom: 30px;
+}
+
+ul.product-list li {
+  display: flex;
+  flex-direction: column;
+}
+
+ul.product-list li header {
+  width: 90%;
+  height: 120px;
+  background-size: cover;
+  border-radius: 4px;
+  margin: auto 10px;
+}
+
+ul.product-list li strong {
+  margin-top: 10px;
+  font-size: 24px;
+  color: #444;
+}
+
+ul.product-list li span {
+  font-size: 15px;
+  color: #999;
+}

@@ -1,6 +1,8 @@
 import React, { useEffect, useState } from 'react';
 import api from '../../services/api';
 
+import './styles.css';
+
 export default function Products() {
   const [ products, setProducts ] = useState([]);
 
@@ -21,7 +23,7 @@ export default function Products() {
       <ul className="product-list">
         {products.map(product => (
           <li key={product._id}>
-            <header></header>
+            <header style={{ backgroundImage: `url(${product.image_url})` }}/>
             <strong>{product.name}</strong>
             <span>{product.price}</span>
           </li>
