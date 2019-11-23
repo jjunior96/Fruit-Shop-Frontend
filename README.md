@@ -1,4 +1,4 @@
-# Fruit Shop (_Frontend_)
+# Fruit Shop (_Frontend_) 
 
 No diretorio do projeto, rodar:
 
