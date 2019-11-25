@@ -6,12 +6,3 @@ No diretorio do projeto, rodar:
 
 ### `yarn start`
 
-## _Features_
-
-- [x] Criar usuario
-- [x] Criar Session 
-- [x] Criar produto
-- [x] Conexão com o MongoDB
-- [ ] Carrinho
-- [ ] Valor total do carrinho
-- [ ] Quantidade de items do carrinho
