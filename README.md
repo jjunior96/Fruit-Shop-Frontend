@@ -6,3 +6,5 @@ No diretorio do projeto, rodar:
 
 ### `yarn start`
 
+### Implementações futuras: App Mobile
+
